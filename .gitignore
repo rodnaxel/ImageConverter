@@ -1,0 +1,35 @@
+# Whitelist
+!appsettings.json
+!appsettings.ini
+
+
+# Blacklist
+# ...folders Pycharm, Visual Studio, Sublime
+/.idea
+/.ropeproject
+/.vscode
+*.sln
+*.suo
+*.code-workspace
+*.sublime-project
+*.sublime-workspace
+
+#...builder and temporary files
+/build
+/__pycache__
+
+
+*.bak
+*.bat
+*.txt
+*.pyc
+*.dat
+
+*.json
+*.ini
+
+
+
+
+
+
